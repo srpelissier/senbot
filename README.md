@@ -20,7 +20,7 @@ To run the framework tests you minimal need:
 * Java JDK v1.6+ (http://www.java.com)
 * Maven (http://maven.apache.org/, install latest version in your local path)
 * Google Chrome (www.google.com/chrome, for the default configured example tests)
-* Chrome WebDriver (http://code.google.com/p/chromedriver/downloads/list, put the executable in your local path)
+* Chrome WebDriver (https://sites.google.com/a/chromium.org/chromedriver/, put the executable in your local path)
 * Firefox (www.firefox.com, for the default configured example tests)
 
 Getting started
